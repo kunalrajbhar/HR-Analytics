@@ -90,4 +90,4 @@ The project includes visualizations for:
 │   └── HR Analytics Project (Group-1).twbx # Tableau dashboard for in-depth analysis
 ├── README.md                    # Project documentation
 └── results
-    └── HR Analytics Project (Group-1).pptx       # Final report with KPIs and insights
+    └── HR Analytics Project (Group-1).pptx       # Final ppt with KPIs and insights
